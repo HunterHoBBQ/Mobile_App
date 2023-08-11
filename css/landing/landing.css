@@ -5,7 +5,7 @@
 	Sections
 ------------------------*/
 section#landing {
-  background: url("../../img/landing/mobile-app_bg.jpg");
+  background: url("../../img/landing/mobile-app_bg.webp");
   background-size: cover;
   background-position: center;
 }
@@ -13,7 +13,7 @@ section#landing {
   background: #f7f7f7;
 }
 .cta {
-  background: url("../../img/landing/Flutter.png");
+  background: url("../../img/landing/Flutter.webp");
   background-size: cover;
   background-position: center;
 }
