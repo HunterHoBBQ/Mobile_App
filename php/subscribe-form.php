@@ -1,11 +1,5 @@
 <?php
 /*------------------------------------------------------
- Name: 		Infinity
- Version: 	1.0
- Updated:	24/04/2015
- Website:	http://audaindesigns.com
- Author:	Audain Designs
- Type:		PHP - Contact Form
 -------------------------------------------------------*/
 
 session_cache_limiter('nocache');
